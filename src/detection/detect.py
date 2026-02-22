@@ -18,3 +18,10 @@ def basic_detection_train_lol_model(data_yaml, project_name, model_name="v1_base
         name=model_name,
         plots=plots
     )
+
+# TODO - test augmentation
+#     noise=0.05,
+#     blur=0.1,
+#     hsv_s=0.3,
+#     hsv_v=0.3,
+#     perspective=0.0001,
