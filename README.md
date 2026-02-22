@@ -1,7 +1,10 @@
 # League of Legends - detection exploration
-Mini project to test several models in detection.
+Project to capture Leauge of Legends element using detection, classification and segmentation. 
 
 Data for models are provided via outplay software and my own gameplay.
+Data was annotated with CVAT. 
+
+Current classes - champion, minion
 
 
 ### Example
