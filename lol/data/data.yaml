@@ -1,7 +1,7 @@
-path: C:/Users/Admin/PycharmProjects/lol_deep_learn/lol/data
+path: C:/Users/Admin/PycharmProjects/lol_deep_learn/lol/data/data
 train: train
 val: val
 
 names:
-  0: champion
-  1: minion
+  0: minion
+  1: champion
