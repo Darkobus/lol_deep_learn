@@ -3,7 +3,7 @@ import numpy as np
 from mss import mss
 from ultralytics import YOLO
 
-model = YOLO(r".\TrainLoL\v1_base_model17\weights\best.pt")
+model = YOLO(r"C:\Users\Admin\PycharmProjects\lol_deep_learn\runs\detect\TrainLoL\v1_base_model17\weights\best.pt")
 
 monitor = {"top": 0, "left": 0, "width": 2560, "height": 1440}
 
